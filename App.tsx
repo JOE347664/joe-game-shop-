@@ -1,6 +1,6 @@
 
 import React, { useState, useMemo } from 'react';
-import { Layout } from './components/Layout';
+import Layout from "./components/Layout";
 import Home from './pages/Home';
 import MLBBSelection from './pages/MLBBSelection';
 import PUBGSelection from './pages/PUBGSelection';
